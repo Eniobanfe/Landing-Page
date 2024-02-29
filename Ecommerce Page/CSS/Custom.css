@@ -1,0 +1,336 @@
+.wrapper{
+
+}
+
+
+.hiring{
+    background-color: blue;
+}
+.hiring p {color: white;
+    align-items: center;
+    margin-left: 25rem;
+}
+
+.hiring .hire a{
+    color: white;
+    text-decoration: underline;
+}
+.hiring .hire a:hover{
+    text-decoration: none;   
+}
+
+.frontside{
+    margin-top: 1.5rem;
+}
+.front{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.menu{
+    margin-top: 1rem;
+}
+.menu1{
+    margin-left: 1rem;
+    text-decoration: none;
+}
+.menu1:hover{
+    text-decoration: underline;
+}
+.menu2{
+    margin-left: 1rem;
+    text-decoration: none;
+}
+.menu2:hover{
+    text-decoration: underline;
+}
+.menu3{
+    margin-left: 1rem;
+    text-decoration: none;
+}
+.menu3:hover{
+    text-decoration: underline;
+}
+.menu4{
+    margin-left: 1rem;
+    text-decoration: none;
+}
+.menu4:hover{
+    text-decoration: underline;
+}
+.menu5{
+    margin-left: 1rem;
+    text-decoration: none;
+}
+.menu5:hover{
+    text-decoration: underline;
+}
+
+.empty1, .empty2, .empty3{
+  border: 2px solid rgb(235, 240, 241);
+
+}
+
+.container{
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+}
+
+.container .row .Freeplace{
+    margin-top: 5rem;
+}
+
+.btn2{
+    border-radius: 1rem;
+}
+
+.Freeplace .btn2{ 
+    margin:80px solid purple;
+    padding: .25rem; 
+    font-size: 2rem;
+}
+
+.Freeplace .html{
+    background-color: aqua;
+    margin-left: 2rem;
+
+}
+
+.Freeplace .css{
+    background-color: aquamarine;
+    margin-left: 2rem;
+
+}
+.Freeplace .js
+{
+    background-color: bisque;
+    margin-left: 2rem;
+    margin-right: 7rem;
+}
+.btn3{
+    background-color: yellow;
+    margin:30px solid;
+}
+
+.ecommerce2{
+    margin-bottom: 3rem;
+}
+.btn4{
+    background-color: rgb(250, 9, 9);
+    margin-left: 2rem;
+    border-radius: 1rem;
+}
+
+.btn4:hover{
+    background-color: rgb(238, 5, 71);
+}
+.container .row .btn4{
+    margin-bottom: 5rem;
+}
+
+/*.tinyimgs{
+    margin-top: 2rem;
+    width: 32rem;
+    height: 20rem;
+    background-color: rgb(246, 243, 243);
+}*/
+img{
+    margin-top: 2rem;
+    width: 33rem;
+    height: 18rem;
+    margin-bottom: 2rem;
+}
+
+.desktop{
+    border-radius: 1rem;
+    background-color: rgb(222, 70, 222);
+    margin-right: 2rem;
+    padding:none
+}
+.desktop :hover{
+    background-color: blueviolet;
+}
+
+.lightbox{
+    border-radius: 1rem;
+    background-color:gray ;
+    margin-right: 2rem;
+}
+.lightbox :hover{
+    background-color: rgb(206, 206, 237);
+}
+.mobile{
+    border-radius: 1rem;
+    background-color:gray ;
+
+}
+
+.mobile:hover{
+    background-color:  rgb(206, 206, 237);
+} ;
+
+.briefmain{
+    margin-right: 15px;
+    border: 1rem solid yellow;
+    background-color: aliceblue;
+}
+
+.assetmain{
+    margin-left: 15px;
+    border: .5rem solid whitesmoke;
+}
+
+.asset1{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border:.5rem solid whitesmoke;
+}
+
+.ideas{
+
+}
+
+.faq h4{
+    margin-left: 35rem; 
+    color:blue;
+}
+
+.faq .stuck{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom:rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+
+ .faq .submit{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .official{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .code{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .library{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .portfolio{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .new{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .difference{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.faq .free{
+    margin-left: 25rem;
+    margin-right: 25rem;
+    margin-bottom: 5rem;
+    border:  2px solid gray;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.discord{
+    background-image: url("https://www.frontendmentor.io/static/images/bg-discord.svg");
+   background-color: rgb(100, 100, 250);
+    align-items: center;
+    margin-right: 8rems;
+    margin-left: 5rem;
+    margin-bottom: 10rem;
+}
+
+.discord .discimg{
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.discord .join{
+    color:white;
+    margin-left:30rem;
+    margin-right: 30rem;
+    margin-bottom: 3rem;
+    align-items: center;
+}
+
+.discord .join2{
+    color:white;
+    font-size: 1.5rem;
+    margin-left:10rem;
+    margin-right: 10rem;
+    margin-bottom: 5rem;
+    align-items: center;
+}
+
+.discord .btn{
+    margin-left:20rems ;
+    margin-right: 20rems;
+}
+
+.discord .footer1{
+    font-size: 10px;
+    margin-right: 20px;
+}
+.footerlast .footer1{
+margin-right: 1rem;
+}
+
+.footer .cord{
+    margin-right: 10px;
+}
+.footer .tweet{
+   
+}
+.footer .linked{
+   
+}
+.footer .fb{
+   
+
+}
